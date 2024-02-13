@@ -12,5 +12,6 @@ Number Plate Extraction <br>
 2. Connected Component Analysis (CCA)
 # Result
 Accuracy: 71/97 = 73.2%
+
 # Reference
 JavaANPR https://github.com/oskopek/javaanpr
