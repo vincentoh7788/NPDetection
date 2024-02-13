@@ -13,5 +13,4 @@ Number Plate Extraction <br>
 # Result
 Accuracy: 71/97 = 73.2%
 # Reference
-1. JavaANPR 
-https://github.com/oskopek/javaanpr
+JavaANPR https://github.com/oskopek/javaanpr
