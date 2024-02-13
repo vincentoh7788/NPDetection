@@ -7,6 +7,7 @@ Preprocessing
 2. Histogram Equalization 
 3. Canny Edge Detection
 <br>
-Number Plate Extraction
+Number Plate Extraction <br>
 1. Morphological Filters
-2. Connected Component Analysis (CCA)
+2. <br>
+3. Connected Component Analysis (CCA)
