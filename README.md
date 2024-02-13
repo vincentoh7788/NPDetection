@@ -10,3 +10,8 @@ Preprocessing
 Number Plate Extraction <br>
 1. Morphological Filters <br>
 2. Connected Component Analysis (CCA)
+# Result
+Accuracy: 71/97 = 73.2%
+# Reference
+1. JavaANPR 
+https://github.com/oskopek/javaanpr
