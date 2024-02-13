@@ -1,5 +1,5 @@
 # NPDetection
-Automatic Number Plate Detection using Traditional Image Processing Method
+Automatic Number Plate Detection using Traditional Image Processing Method <br>
 Programming Language: Java
 # Technique Used
 Preprocessing
